@@ -1,0 +1,6 @@
+2025/11/09-12:32:10.463 339e Reusing MANIFEST /home/spencer/.config/discordcanary/Local Storage/leveldb/MANIFEST-000001
+2025/11/09-12:32:10.467 339e Recovering log #544
+2025/11/09-12:32:10.467 339e Reusing old log /home/spencer/.config/discordcanary/Local Storage/leveldb/000544.log 
+2025/11/09-12:38:50.109 339f Level-0 table #548: started
+2025/11/09-12:38:50.131 339f Level-0 table #548: 2692281 bytes OK
+2025/11/09-12:38:50.141 339f Delete type=0 #544
