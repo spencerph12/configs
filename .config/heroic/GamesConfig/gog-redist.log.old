@@ -1,0 +1,6 @@
+(17:40:52) [INFO]:    GOG REDIST:: GOGDL_CONFIG_PATH=/home/spencer/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/gogdl --auth-config-path /home/spencer/.config/heroic/gog_store/auth.json redist --ids ISI --path /home/spencer/.config/heroic/tools/redist/gog 
+
+[PROGRESS] INFO: = Progress: 100.00 1253424/1253424, Running for: 00:00:01, ETA: 00:00:00
+[PROGRESS] INFO: = Downloaded: 1.11 MiB, Written: 1.20 MiB
+[PROGRESS] INFO:  + Download	- 0.61 MiB/s (raw) / 0.65 MiB/s (decompressed)
+[PROGRESS] INFO:  + Disk	- 0.65 MiB/s (write) / 0.00 MiB/s (read)

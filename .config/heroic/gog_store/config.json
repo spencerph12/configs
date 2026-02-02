@@ -1,0 +1,53 @@
+{
+	"isLoggedIn": true,
+	"userData": {
+		"country": "US",
+		"currencies": [
+			{
+				"code": "USD",
+				"symbol": "$"
+			}
+		],
+		"selectedCurrency": {
+			"code": "USD",
+			"symbol": "$"
+		},
+		"preferredLanguage": {
+			"code": "en",
+			"name": "English"
+		},
+		"ratingBrand": "ESRB",
+		"isLoggedIn": true,
+		"checksum": {
+			"cart": null,
+			"games": "27aa01ce457dce98b86a35c6a9ff76b1",
+			"wishlist": null,
+			"reviews_votes": null,
+			"games_rating": null
+		},
+		"updates": {
+			"messages": 0,
+			"pendingFriendRequests": 0,
+			"unreadChatMessages": 0,
+			"products": 3,
+			"forum": 0,
+			"total": 3
+		},
+		"userId": "50772259651824",
+		"username": "spenerph12",
+		"galaxyUserId": "50772259604902672",
+		"avatar": "https://images.gog.com/82f7ca3dd3d5f4cd7875f3f94ab5d9e08baf23822921cd62daa5913bf47690dc",
+		"walletBalance": {
+			"currency": "USD",
+			"amount": 0
+		},
+		"purchasedItems": {
+			"games": 25,
+			"movies": 0
+		},
+		"wishlistedItems": 0,
+		"friends": [],
+		"personalizedProductPrices": [],
+		"personalizedSeriesPrices": []
+	}
+}

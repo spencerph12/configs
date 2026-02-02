@@ -1,1 +1,46 @@
-{}
+{
+	"153e4dd8955e452aa60ba9ba2d906bf1": {
+		"game": {
+			"app_name": "153e4dd8955e452aa60ba9ba2d906bf1",
+			"title": "Metro Exodus Enhanced Edition",
+			"version": "0.3.0.68",
+			"platform_versions": {
+				"Windows": "0.3.0.68"
+			},
+			"cloud_saves_supported": true,
+			"cloud_save_folder": "{UserSavedGames}/metro exodus/{EpicID}/",
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 4839066,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "e74ee16012034ca29b527dcdb846170a",
+			"launch_exe": "MetroExodus.exe",
+			"launch_command": "",
+			"build_version": "0.3.0.68",
+			"build_id": "RsnjxQQMo1R2AHBRLMA5Iw1kYVw",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 100,
+			"num_chunks": 73804,
+			"disk_size": 77570552856,
+			"download_size": 73431378574,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	},
+	"__timestamp": {
+		"153e4dd8955e452aa60ba9ba2d906bf1": "Thu Jan 08 2026 18:36:13 GMT-0600 (Central Standard Time)"
+	}
+}

@@ -1,0 +1,40 @@
+{
+	"games": [
+		{
+			"runner": "sideload",
+			"app_name": "qBBmbvTQ3zsbTpTaDTZvLW",
+			"title": "Plutonium",
+			"install": {
+				"executable": "/home/spencer/wine/plutonium/plutonium.exe",
+				"platform": "Windows",
+				"is_dlc": false
+			},
+			"folder_name": "/home/spencer/wine/plutonium",
+			"art_cover": "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/462a7a9fe9f79f24429848e2afa027bc.png",
+			"is_installed": true,
+			"art_square": "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/462a7a9fe9f79f24429848e2afa027bc.png",
+			"canRunOffline": true,
+			"browserUrl": "",
+			"customUserAgent": "",
+			"launchFullScreen": false
+		},
+		{
+			"runner": "sideload",
+			"app_name": "7gf7k6jUkFwSxTCnQEYA5R",
+			"title": "Grim fandango Remastered",
+			"install": {
+				"executable": "/home/spencer/games/gog/Grim Fandango Remastererd/start.sh",
+				"platform": "linux",
+				"is_dlc": false
+			},
+			"folder_name": "/home/spencer/games/gog/Grim Fandango Remastererd",
+			"art_cover": "https://cdn2.steamgriddb.com/grid/1ff2499a84a99fdcb7c835b8e5280a34.png",
+			"is_installed": true,
+			"art_square": "https://cdn2.steamgriddb.com/grid/1ff2499a84a99fdcb7c835b8e5280a34.png",
+			"canRunOffline": true,
+			"browserUrl": "",
+			"customUserAgent": "",
+			"launchFullScreen": false
+		}
+	]
+}

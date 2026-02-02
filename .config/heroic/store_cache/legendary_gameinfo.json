@@ -1,1 +1,56 @@
-{}
+{
+	"snapdragon": {
+		"about": {
+			"image": {
+				"src": "https://cdn2.unrealengine.com/metroexodus-pcenhancededition-s2-1200x1600-fb17109c9b30.jpg",
+				"_type": "Diesel Image"
+			},
+			"developerAttribution": "4A Games",
+			"_type": "Diesel Product About",
+			"publisherAttribution": "Deep Silver",
+			"description": "**Owners of Metro Exodus are also entitled to the Metro Exodus PC Enhanced Edition - a stunning visual upgrade that REQUIRES a Ray-Tracing Capable GPU as part of the minimum spec.** \n\n**The DLC for Metro Exodus is also Enhanced – purchasing the Metro Exodus Expansion Pass, or The Two Colonels / Sam’s Story individually, entitles you to the Enhanced version of that content, accessible via the Metro Exodus PC Enhanced Edition.**\n\nMetro Exodus is an epic, story-driven first person shooter from 4A Games that blends deadly combat and stealth with exploration and survival horror in one of the most immersive game worlds ever created.\n\nFlee the shattered ruins of dead Moscow and embark on an epic, continent-spanning journey across post-apocalyptic Russia in the greatest Metro adventure yet.\n\nExplore the Russian wilderness in vast, non-linear levels and follow a thrilling story-line inspired by the novels of Dmitry Glukhovsky that spans an entire year through spring, summer and autumn to the depths of nuclear winter.\n\nIncorporates 3rd-party DRM: Denuvo Anti-Tamper",
+			"title": "Metro Exodus",
+			"developerLogo": {
+				"src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fmetro-exodus%2Fhome%2F4A-deepSilver-957x445-9cf72ebfeec8a271c16d56ed380969177f313af2.png",
+				"_type": "Diesel Image"
+			}
+		},
+		"reqs": [
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "OS",
+				"minimum": "Mac OS Catalina (10.15)",
+				"recommended": "Mac OS Big Sur"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "CPU",
+				"minimum": "Intel Core i7-7820",
+				"recommended": "Intel Core i7-7820"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Avg. Performance ",
+				"minimum": "1080p | 30FPS",
+				"recommended": "2K | 45+FPS"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "RAM",
+				"minimum": "16GB",
+				"recommended": "16GB"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "GPU",
+				"minimum": "Radeon Pro 560 Medium",
+				"recommended": "Radeon RX 5700 XT Ultra "
+			}
+		],
+		"releaseDate": "2019-02-15T05:00:00",
+		"storeUrl": "https://www.epicgames.com/store/product/metro-exodus"
+	},
+	"__timestamp": {
+		"snapdragon": "Thu Jan 08 2026 18:36:05 GMT-0600 (Central Standard Time)"
+	}
+}

@@ -1,0 +1,3 @@
+2026/01/08-18:35:31.076 a235 Reusing MANIFEST /home/spencer/.config/heroic/Partitions/epicstore/IndexedDB/https_store.epicgames.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/08-18:35:31.076 a235 Recovering log #3
+2026/01/08-18:35:31.076 a235 Reusing old log /home/spencer/.config/heroic/Partitions/epicstore/IndexedDB/https_store.epicgames.com_0.indexeddb.leveldb/000003.log 

@@ -1,0 +1,357 @@
+{
+  "app_name": "153e4dd8955e452aa60ba9ba2d906bf1",
+  "app_title": "Metro Exodus Enhanced Edition",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "153e4dd8955e452aa60ba9ba2d906bf1",
+      "asset_id": "153e4dd8955e452aa60ba9ba2d906bf1",
+      "build_version": "0.3.0.68",
+      "catalog_item_id": "8a2a108529c84849a6b35733b9b94891",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "01d920abc78847f7924b46ef6e2c08d2"
+      },
+      "namespace": "snapdragon",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567zG5o4OBTBUL3WOGPxO3K7CrN",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-02-19T18:02:34.562Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserSavedGames}/metro exodus/{EpicID}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "MEEnhancedEdition"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "1000"
+      },
+      "OwnershipToken": {
+        "type": "STRING",
+        "value": "true"
+      }
+    },
+    "description": "Metro Exodus Enhanced Edition",
+    "developer": "Plaion",
+    "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "fghi4567zG5o4OBTBUL3WOGPxO3K7CrN",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-02-19T18:05:17.252Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "TTCEnhancedEdition"
+          },
+          "OwnershipToken": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "The Two Colonels Enhanced Edition",
+        "developer": "Plaion",
+        "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+        "endOfSupport": false,
+        "entitlementName": "39b5135918d54e9d815178fc8590cc0a",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "39b5135918d54e9d815178fc8590cc0a",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 720,
+            "md5": "415af7c3e0907dedbc689aefc762070a",
+            "size": 304163,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-05-06T14:51:56.510Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Diesel_productv2_metro-exodus_the-two-colonels_Metro_TTCTrailer_1280x720-1280x720-8560f379ff30181f8b8150ea2e365e4d6d1b5f87_1280x720-415af7c3e0907dedbc689aefc762070a",
+            "width": 1280
+          },
+          {
+            "height": 1600,
+            "md5": "559bd9f5ada21aa3c9fe259f6427a5b4",
+            "size": 483802,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-05-06T14:52:19.450Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/MetroExodus-PCEnhancedEdition_S2_1200x1600_1200x1600-559bd9f5ada21aa3c9fe259f6427a5b4",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-04-26T20:30:05.821Z",
+        "mainGameItem": {
+          "id": "8a2a108529c84849a6b35733b9b94891",
+          "namespace": "snapdragon",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "8a2a108529c84849a6b35733b9b94891",
+            "namespace": "snapdragon",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "snapdragon",
+        "releaseInfo": [
+          {
+            "appId": "fc0595d60ca74a998fb1bf1897c174db",
+            "compatibleApps": [],
+            "dateAdded": "2019-05-08T00:00:00.000Z",
+            "id": "972188477c264bc3ad16e6ea866a4097",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "The Two Colonels Enhanced Edition",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "fghi4567zG5o4OBTBUL3WOGPxO3K7CrN",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-02-19T18:09:29.302Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "SSEnhancedEdition"
+          },
+          "OwnershipToken": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Sam's Story Enhanced Edition",
+        "developer": "Plaion",
+        "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+        "endOfSupport": false,
+        "entitlementName": "c9a69616d75642219e3600f13e9a135d",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c9a69616d75642219e3600f13e9a135d",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 2160,
+            "md5": "cb836ca117681eb3901925af9d9a760f",
+            "size": 461025,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-05-06T14:57:39.166Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Diesel_productv2_metro-exodus_sams-story_MetroEx-SS_Add-ons_3840x2160-3840x2160-44d763346f43e4e994660f01ea5fb2028ed1be10_3840x2160-cb836ca117681eb3901925af9d9a760f",
+            "width": 3840
+          },
+          {
+            "height": 560,
+            "md5": "f5183cc0225a70ece42f0d792a62a1f8",
+            "size": 49406,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-05-06T14:57:48.393Z",
+            "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Diesel_productv2_metro-exodus_sams-story_MetroEx-SS_Blades_420x560-420x560-0a76573f26004d9161f34855ed2993256fe83621_420x560-f5183cc0225a70ece42f0d792a62a1f8",
+            "width": 420
+          }
+        ],
+        "lastModifiedDate": "2023-04-26T20:29:28.166Z",
+        "mainGameItem": {
+          "id": "8a2a108529c84849a6b35733b9b94891",
+          "namespace": "snapdragon",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "8a2a108529c84849a6b35733b9b94891",
+            "namespace": "snapdragon",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "snapdragon",
+        "releaseInfo": [
+          {
+            "appId": "7fff893cafb2449aa4e9d210ab08490e",
+            "compatibleApps": [],
+            "dateAdded": "2019-05-08T00:00:00.000Z",
+            "id": "d9b68104825f4b20b6069899509ea14c",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Sam's Story Enhanced Edition",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "fghi4567zG5o4OBTBUL3WOGPxO3K7CrN",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-09-08T19:45:48.252Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Metro Exodus Enhanced Edition: SDK DLC",
+        "developer": "Plaion",
+        "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+        "endOfSupport": false,
+        "entitlementName": "2f9969c4ea134b829b3d668d69e52f56",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2f9969c4ea134b829b3d668d69e52f56",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "1c90462bdae41cfe18eb0f9e91fa95c5",
+            "size": 1015026,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-01-24T15:32:09.829Z",
+            "url": "https://cdn1.epicgames.com/item/snapdragon/EGS_MetroExodusSDK_4AGames_DLC_S1_2560x1440-1c90462bdae41cfe18eb0f9e91fa95c5_2560x1440-1c90462bdae41cfe18eb0f9e91fa95c5_2560x1440-1c90462bdae41cfe18eb0f9e91fa95c5",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "dfa3f26d93c8a3ee1d9c2ac37439f5d4",
+            "size": 994848,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-01-24T15:32:06.798Z",
+            "url": "https://cdn1.epicgames.com/item/snapdragon/EGS_MetroExodusSDK_4AGames_DLC_S2_1200x1600-dfa3f26d93c8a3ee1d9c2ac37439f5d4_1200x1600-dfa3f26d93c8a3ee1d9c2ac37439f5d4_1200x1600-dfa3f26d93c8a3ee1d9c2ac37439f5d4",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-03-06T17:19:46.290Z",
+        "mainGameItem": {
+          "id": "8a2a108529c84849a6b35733b9b94891",
+          "namespace": "snapdragon",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "8a2a108529c84849a6b35733b9b94891",
+            "namespace": "snapdragon",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "snapdragon",
+        "releaseInfo": [
+          {
+            "appId": "ed2e91657cbe4d54b6199d9740e480e6",
+            "id": "dfe1944d79144b8ba74c6a7ef8f762e2",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Metro Exodus Enhanced Edition: SDK DLC",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "8a2a108529c84849a6b35733b9b94891",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "8a2a108529c84849a6b35733b9b94891",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1600,
+        "md5": "559bd9f5ada21aa3c9fe259f6427a5b4",
+        "size": 483802,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-05-05T22:39:35.432Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/MetroExodus-PCEnhancedEdition_S2_1200x1600_1200x1600-559bd9f5ada21aa3c9fe259f6427a5b4",
+        "width": 1200
+      },
+      {
+        "height": 1440,
+        "md5": "ee950e53ec226a183067b032beb569ee",
+        "size": 499181,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-05-05T22:42:28.179Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/MetroExodus-PCEnhancedEdition_S1_2560x1440_2560x1440-ee950e53ec226a183067b032beb569ee",
+        "width": 2560
+      }
+    ],
+    "lastModifiedDate": "2023-03-06T17:19:46.380Z",
+    "mainGameItemList": [],
+    "namespace": "snapdragon",
+    "releaseInfo": [
+      {
+        "appId": "153e4dd8955e452aa60ba9ba2d906bf1",
+        "compatibleApps": [],
+        "dateAdded": "2019-01-11T00:00:00.000Z",
+        "id": "a0b9d7979dbb4f1fbfe2114e5da4e52e",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "",
+        "versionTitle": ""
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Metro Exodus Enhanced Edition",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

@@ -1,1 +1,23 @@
-{}
+{
+	"__timestamp": {
+		"1207667183_linux_null_undefined_": "Fri Jan 09 2026 17:43:07 GMT-0600 (Central Standard Time)"
+	},
+	"1207667183_linux_null_undefined_": {
+		"game": {
+			"app_name": "1207667183",
+			"title": "Grim Fandango Remastered",
+			"owned_dlc": [],
+			"version": "1.4.0 (gog-7)",
+			"launch_options": []
+		},
+		"manifest": {
+			"download_size": 4331426748,
+			"disk_size": 6005390509,
+			"app_name": "1207667183",
+			"languages": [
+				"en"
+			],
+			"dependencies": []
+		}
+	}
+}

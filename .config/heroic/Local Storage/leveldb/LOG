@@ -1,2 +1,3 @@
-2025/11/01-12:25:08.024 91ea Creating DB /home/spencer/.config/heroic/Local Storage/leveldb since it was missing.
-2025/11/01-12:25:08.050 91ea Reusing MANIFEST /home/spencer/.config/heroic/Local Storage/leveldb/MANIFEST-000001
+2026/01/14-20:38:34.634 654b Reusing MANIFEST /home/spencer/.config/heroic/Local Storage/leveldb/MANIFEST-000001
+2026/01/14-20:38:34.638 654b Recovering log #3
+2026/01/14-20:38:34.638 654b Reusing old log /home/spencer/.config/heroic/Local Storage/leveldb/000003.log 

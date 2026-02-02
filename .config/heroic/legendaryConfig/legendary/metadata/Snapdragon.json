@@ -1,0 +1,352 @@
+{
+  "app_name": "Snapdragon",
+  "app_title": "Metro Exodus",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Snapdragon",
+      "asset_id": "Snapdragon",
+      "build_version": "0.1.0.40",
+      "catalog_item_id": "14d91f5ea7944b32bfedd2f78204a0a3",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "7ac2102928f5452db227885becfb6d91"
+      },
+      "namespace": "snapdragon",
+      "sidecar_rev": 0
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567zG5o4OBTBUL3WOGPxO3K7CrN",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-01-11T14:08:02.310Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserSavedGames}/metro exodus/{EpicID}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "MetroExodus"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "1000"
+      },
+      "OwnershipToken": {
+        "type": "STRING",
+        "value": "true"
+      }
+    },
+    "description": "Metro Exodus",
+    "developer": "Plaion",
+    "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "fghi4567zG5o4OBTBUL3WOGPxO3K7CrN",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-05-02T16:18:05.605Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Metro Exodus SDK",
+        "developer": "Plaion",
+        "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+        "endOfSupport": false,
+        "entitlementName": "298af16be89c42edb932a0ecbc51e5c3",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "298af16be89c42edb932a0ecbc51e5c3",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "1c90462bdae41cfe18eb0f9e91fa95c5",
+            "size": 1015026,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-01-24T03:10:27.538Z",
+            "url": "https://cdn1.epicgames.com/item/snapdragon/EGS_MetroExodusSDK_4AGames_DLC_S1_2560x1440-1c90462bdae41cfe18eb0f9e91fa95c5_2560x1440-1c90462bdae41cfe18eb0f9e91fa95c5",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "dfa3f26d93c8a3ee1d9c2ac37439f5d4",
+            "size": 994848,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-01-24T03:10:31.808Z",
+            "url": "https://cdn1.epicgames.com/item/snapdragon/EGS_MetroExodusSDK_4AGames_DLC_S2_1200x1600-dfa3f26d93c8a3ee1d9c2ac37439f5d4_1200x1600-dfa3f26d93c8a3ee1d9c2ac37439f5d4",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-03-06T17:19:46.281Z",
+        "mainGameItem": {
+          "id": "14d91f5ea7944b32bfedd2f78204a0a3",
+          "namespace": "snapdragon",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "14d91f5ea7944b32bfedd2f78204a0a3",
+            "namespace": "snapdragon",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "snapdragon",
+        "releaseInfo": [
+          {
+            "appId": "55066daebdcf4f02aff27cbc75862d98",
+            "id": "31c2f977c8cf43e189963cef3de62b20",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Metro Exodus SDK",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "fghi4567zG5o4OBTBUL3WOGPxO3K7CrN",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2019-01-22T20:24:55.920Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Sam's Story",
+        "developer": "Plaion",
+        "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+        "endOfSupport": false,
+        "entitlementName": "9ea8124c525944f6a63a1ed2cb216ad0",
+        "entitlementType": "EXECUTABLE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9ea8124c525944f6a63a1ed2cb216ad0",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "c1db645c65781bc49def7bf45f75d5dd",
+            "size": 871792,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-11-07T01:16:14.656Z",
+            "url": "https://cdn1.epicgames.com/item/snapdragon/landscape_2560x1440-c1db645c65781bc49def7bf45f75d5dd",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "bfecd8f57c04dac1b5a772d050bcfc39",
+            "size": 3676665,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-11-21T18:52:36.294Z",
+            "url": "https://cdn1.epicgames.com/item/snapdragon/metro_exodus_epic_tile_1200x1600_1200x1600-bfecd8f57c04dac1b5a772d050bcfc39",
+            "width": 1200
+          },
+          {
+            "height": 404,
+            "md5": "ce507cc45e2abb059dadee1fd4cc397c",
+            "size": 69269,
+            "type": "ESRB",
+            "uploadedDate": "2019-04-23T18:56:10.621Z",
+            "url": "https://cdn1.epicgames.com/snapdragon/item/ESRB_MetroExodus_M-842x404-ce507cc45e2abb059dadee1fd4cc397c.png",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2025-11-07T01:16:18.399Z",
+        "mainGameItem": {
+          "id": "14d91f5ea7944b32bfedd2f78204a0a3",
+          "namespace": "snapdragon",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "14d91f5ea7944b32bfedd2f78204a0a3",
+            "namespace": "snapdragon",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "snapdragon",
+        "releaseInfo": [
+          {
+            "appId": "SnapdragonDLC2",
+            "compatibleApps": [],
+            "dateAdded": "2019-05-14T00:00:00.000Z",
+            "id": "7947ea10002a474e9e3d3b68edebf76d",
+            "platform": [
+              "Windows",
+              "Mac"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "technicalDetails": "DLC 2",
+        "title": "Sam's Story",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "fghi4567zG5o4OBTBUL3WOGPxO3K7CrN",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-05-08T18:42:11.452Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "The Two Colonels",
+        "developer": "Plaion",
+        "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+        "endOfSupport": false,
+        "entitlementName": "ac45944a87834615909cde9de0a46853",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ac45944a87834615909cde9de0a46853",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "094291722b11c825a505a9fbfdf49382",
+            "size": 657973,
+            "type": "DieselGameBox",
+            "uploadedDate": "2025-11-07T01:17:42.198Z",
+            "url": "https://cdn1.epicgames.com/item/snapdragon/TwoColonels_2560x1440-094291722b11c825a505a9fbfdf49382",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "bfecd8f57c04dac1b5a772d050bcfc39",
+            "size": 3676665,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2022-11-21T18:53:04.678Z",
+            "url": "https://cdn1.epicgames.com/item/snapdragon/metro_exodus_epic_tile_1200x1600_1200x1600-bfecd8f57c04dac1b5a772d050bcfc39",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2025-11-07T01:17:43.925Z",
+        "mainGameItem": {
+          "id": "14d91f5ea7944b32bfedd2f78204a0a3",
+          "namespace": "snapdragon",
+          "unsearchable": false
+        },
+        "mainGameItemList": [
+          {
+            "id": "14d91f5ea7944b32bfedd2f78204a0a3",
+            "namespace": "snapdragon",
+            "unsearchable": false
+          }
+        ],
+        "namespace": "snapdragon",
+        "releaseInfo": [
+          {
+            "appId": "SnapdragonDLC1",
+            "compatibleApps": [],
+            "dateAdded": "2019-05-08T00:00:00.000Z",
+            "id": "07e9abe83e56433bab98c4e49dba0acc",
+            "platform": [
+              "Windows",
+              "Mac"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "The Two Colonels",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "14d91f5ea7944b32bfedd2f78204a0a3",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "14d91f5ea7944b32bfedd2f78204a0a3",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "6fdc4878c639d022e1dfc1851623594a",
+        "size": 6065760,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-11-21T18:51:50.852Z",
+        "url": "https://cdn1.epicgames.com/undefined",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "bfecd8f57c04dac1b5a772d050bcfc39",
+        "size": 3676665,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-11-21T18:51:47.874Z",
+        "url": "https://cdn1.epicgames.com/item/snapdragon/metro_exodus_epic_tile_1200x1600_1200x1600-bfecd8f57c04dac1b5a772d050bcfc39",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-03-06T17:19:46.261Z",
+    "mainGameItemList": [],
+    "namespace": "snapdragon",
+    "releaseInfo": [
+      {
+        "appId": "Snapdragon",
+        "compatibleApps": [],
+        "dateAdded": "2019-01-11T00:00:00.000Z",
+        "id": "aacb92a8050d47219c93a2cb971d9440",
+        "platform": [
+          "Windows",
+          "Mac"
+        ],
+        "releaseNote": "",
+        "versionTitle": ""
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Metro Exodus",
+    "unsearchable": true
+  },
+  "sidecar": null
+}

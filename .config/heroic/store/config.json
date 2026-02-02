@@ -1,4 +1,11 @@
 {
+	"window-props": {
+		"x": 0,
+		"y": 0,
+		"width": 1909,
+		"height": 2108,
+		"maximized": true
+	},
 	"userHome": "/home/spencer",
 	"language": "en",
 	"settings": {
@@ -15,15 +22,15 @@
 		"checkForUpdatesOnStartup": true,
 		"autoUpdateGames": false,
 		"customWinePaths": [],
-		"defaultInstallPath": "/home/spencer/Games/Heroic",
-		"libraryTopSection": "disabled",
+		"defaultInstallPath": "/home/spencer/games",
+		"libraryTopSection": "recently_played_installed",
 		"defaultSteamPath": "/home/spencer/.steam/steam",
 		"defaultWinePrefix": "/home/spencer/Games/Heroic/Prefixes/default",
 		"hideChangelogsOnStartup": false,
 		"language": "en",
 		"maxWorkers": 0,
 		"minimizeOnLaunch": false,
-		"nvidiaPrime": false,
+		"nvidiaPrime": true,
 		"enviromentOptions": [],
 		"wrapperOptions": [],
 		"showFps": false,
@@ -31,10 +38,9 @@
 		"wineCrossoverBottle": "Heroic",
 		"winePrefix": "/home/spencer/Games/Heroic/Prefixes/default",
 		"wineVersion": {
-			"bin": "/usr/sbin/wine",
-			"name": "Wine Default - wine-10.18",
-			"type": "wine",
-			"wineserver": "/usr/sbin/wineserver"
+			"bin": "/usr/share/steam/compatibilitytools.d/proton-cachyos/proton",
+			"name": "Proton - proton-cachyos",
+			"type": "proton"
 		},
 		"enableEsync": true,
 		"enableFsync": true,
@@ -52,13 +58,24 @@
 		"downloadProtonToSteam": false,
 		"advertiseAvxForRosetta": false,
 		"noTrayIcon": false,
-		"showValveProton": false
+		"showValveProton": false,
+		"egsLinkedPath": "/home/spencer/games/epic_games",
+		"enableFSR": false,
+		"maxSharpness": 5,
+		"showMangohud": true,
+		"discordRPC": true
 	},
-	"window-props": {
-		"x": 5329,
-		"y": 766,
-		"width": 1200,
-		"height": 690,
-		"maximized": false
+	"userInfo": {
+		"account_id": "d76a1eb0f5e64ecf99178a0bb7ab79f4",
+		"displayName": "spencerph12",
+		"user": "spencer"
+	},
+	"games": {
+		"recent": [
+			{
+				"appName": "qBBmbvTQ3zsbTpTaDTZvLW",
+				"title": "Plutonium"
+			}
+		]
 	}
 }
